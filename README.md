@@ -161,20 +161,10 @@ Simplifies library operations by managing books, users, and borrowing records ef
 
 [![Priyadharshini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyadharshini-6383&theme=tokyo-night)](https://github.com/Priyadharshini-6383)
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyadharshini-6383&theme=tokyonight&row=1&column=7" />
-</p>
 
 
-## 💬 Developer Quote
 
-<p align="center">
-<i>"First, solve the problem. Then, write the code."</i>
-</p>
 
----
 
 ## 🐍 Contribution Snake Animation
 
