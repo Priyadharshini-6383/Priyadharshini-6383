@@ -169,9 +169,9 @@ Create the following file after creating your profile repository:
 
 Then use:
 
-```md
+
 ![Snake animation](https://github.com/Priyadharshini-6383/Priyadharshini-6383/blob/output/github-contribution-grid-snake.svg)
-```
+
 
 ---
 
