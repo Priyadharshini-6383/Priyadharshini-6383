@@ -110,6 +110,18 @@ Simplifies library operations by managing books, users, and borrowing records ef
 
 ---
 
+## 🏅 Achievements & Certifications
+
+| 🎖️ Achievement                                    | 📝 Details                                                                                          |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 🥉 Paper Presentation                              | Kongu Engineering College                                                                           |
+| 🏆 Hackathon — Top 12                              | Ranked Top 12 out of 67 teams at KPR College of Engineering                                         |
+| 🥇 Make-A-Thon — Participant                       | M. Kumarasamy College of Engineering                                                                |
+| 🔥 ServiceNow Certified System Administrator (CSA) | ServiceNow Certification                                                                            |
+| 🎓 Welcome to ServiceNow                           | ServiceNow Learning Program                                                                         |
+| ☁️ Cloud Computing (NPTEL)                         | Successfully completed with a score of 61%                                                          |
+| 💻 MERN Stack Projects                             | Developed Feedback Management System, Personal Notes App, Survey App, and Library Management System |
+
 ## 🎯 Current Goals
 
 * ✅ Master DSA and Problem Solving
