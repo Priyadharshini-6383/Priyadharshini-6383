@@ -163,17 +163,17 @@ Simplifies library operations by managing books, users, and borrowing records ef
 
 ## 🐍 Contribution Snake Animation
 
-Create the following file after creating your profile repository:
 
-`.github/workflows/snake.yml`
 
-Then use:
+
+
+
 
 
 ![Snake animation](https://github.com/Priyadharshini-6383/Priyadharshini-6383/blob/output/github-contribution-grid-snake.svg)
 
 
----
+
 
 ## 🤝 Let's Collaborate
 
