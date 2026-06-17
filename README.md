@@ -145,6 +145,10 @@ Simplifies library operations by managing books, users, and borrowing records ef
 
 ---
 
+## 📈 GitHub Activity Graph
+
+[![Priyadharshini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyadharshini-6383&theme=tokyo-night)](https://github.com/Priyadharshini-6383)
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -174,9 +178,7 @@ Simplifies library operations by managing books, users, and borrowing records ef
 
 
 
-## 📈 GitHub Activity Graph
 
-[![Priyadharshini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyadharshini-6383&theme=tokyo-night)](https://github.com/Priyadharshini-6383)
 
 ## 🤝 Let's Collaborate
 
